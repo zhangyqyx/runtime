@@ -1,0 +1,398 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9F6131011EF8F3A900031D67 /* TFIvarAndMethodViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F6130FF1EF8F3A900031D67 /* TFIvarAndMethodViewController.m */; };
+		9F6131021EF8F3A900031D67 /* TFIvarAndMethodViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9F6131001EF8F3A900031D67 /* TFIvarAndMethodViewController.xib */; };
+		9F61310B1EF8FCFE00031D67 /* TFExchangeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F6131091EF8FCFE00031D67 /* TFExchangeViewController.m */; };
+		9F61310C1EF8FCFE00031D67 /* TFExchangeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9F61310A1EF8FCFE00031D67 /* TFExchangeViewController.xib */; };
+		9F6131101EF9057700031D67 /* TFDictChangeModelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F61310E1EF9057700031D67 /* TFDictChangeModelViewController.m */; };
+		9F6131111EF9057700031D67 /* TFDictChangeModelViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9F61310F1EF9057700031D67 /* TFDictChangeModelViewController.xib */; };
+		9F6131151EF905B900031D67 /* TFArchiveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F6131131EF905B900031D67 /* TFArchiveViewController.m */; };
+		9F6131161EF905B900031D67 /* TFArchiveViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9F6131141EF905B900031D67 /* TFArchiveViewController.xib */; };
+		9F6131191EF905CC00031D67 /* TFChangeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F6131181EF905CC00031D67 /* TFChangeModel.m */; };
+		9F68F79F1EF37E4C00AA6EFD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F68F79E1EF37E4C00AA6EFD /* main.m */; };
+		9F68F7A21EF37E4C00AA6EFD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F68F7A11EF37E4C00AA6EFD /* AppDelegate.m */; };
+		9F68F7A51EF37E4C00AA6EFD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F68F7A41EF37E4C00AA6EFD /* ViewController.m */; };
+		9F68F7A81EF37E4C00AA6EFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F68F7A61EF37E4C00AA6EFD /* Main.storyboard */; };
+		9F68F7AA1EF37E4C00AA6EFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F68F7A91EF37E4C00AA6EFD /* Assets.xcassets */; };
+		9F68F7AD1EF37E4C00AA6EFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F68F7AB1EF37E4C00AA6EFD /* LaunchScreen.storyboard */; };
+		9F68F7B71EF380D700AA6EFD /* TFRuntimeManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F68F7B61EF380D700AA6EFD /* TFRuntimeManager.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9F6130FE1EF8F3A900031D67 /* TFIvarAndMethodViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFIvarAndMethodViewController.h; sourceTree = "<group>"; };
+		9F6130FF1EF8F3A900031D67 /* TFIvarAndMethodViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFIvarAndMethodViewController.m; sourceTree = "<group>"; };
+		9F6131001EF8F3A900031D67 /* TFIvarAndMethodViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TFIvarAndMethodViewController.xib; sourceTree = "<group>"; };
+		9F6131081EF8FCFE00031D67 /* TFExchangeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFExchangeViewController.h; sourceTree = "<group>"; };
+		9F6131091EF8FCFE00031D67 /* TFExchangeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFExchangeViewController.m; sourceTree = "<group>"; };
+		9F61310A1EF8FCFE00031D67 /* TFExchangeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TFExchangeViewController.xib; sourceTree = "<group>"; };
+		9F61310D1EF9057700031D67 /* TFDictChangeModelViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFDictChangeModelViewController.h; sourceTree = "<group>"; };
+		9F61310E1EF9057700031D67 /* TFDictChangeModelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFDictChangeModelViewController.m; sourceTree = "<group>"; };
+		9F61310F1EF9057700031D67 /* TFDictChangeModelViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TFDictChangeModelViewController.xib; sourceTree = "<group>"; };
+		9F6131121EF905B900031D67 /* TFArchiveViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFArchiveViewController.h; sourceTree = "<group>"; };
+		9F6131131EF905B900031D67 /* TFArchiveViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFArchiveViewController.m; sourceTree = "<group>"; };
+		9F6131141EF905B900031D67 /* TFArchiveViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TFArchiveViewController.xib; sourceTree = "<group>"; };
+		9F6131171EF905CC00031D67 /* TFChangeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFChangeModel.h; sourceTree = "<group>"; };
+		9F6131181EF905CC00031D67 /* TFChangeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFChangeModel.m; sourceTree = "<group>"; };
+		9F68F79A1EF37E4C00AA6EFD /* TFRuntimeDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TFRuntimeDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F68F79E1EF37E4C00AA6EFD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9F68F7A01EF37E4C00AA6EFD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		9F68F7A11EF37E4C00AA6EFD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		9F68F7A31EF37E4C00AA6EFD /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		9F68F7A41EF37E4C00AA6EFD /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		9F68F7A71EF37E4C00AA6EFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9F68F7A91EF37E4C00AA6EFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9F68F7AC1EF37E4C00AA6EFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9F68F7AE1EF37E4C00AA6EFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F68F7B51EF380D700AA6EFD /* TFRuntimeManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFRuntimeManager.h; sourceTree = "<group>"; };
+		9F68F7B61EF380D700AA6EFD /* TFRuntimeManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFRuntimeManager.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9F68F7971EF37E4C00AA6EFD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9F6130F91EF8F34B00031D67 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				9F6130FE1EF8F3A900031D67 /* TFIvarAndMethodViewController.h */,
+				9F6130FF1EF8F3A900031D67 /* TFIvarAndMethodViewController.m */,
+				9F6131001EF8F3A900031D67 /* TFIvarAndMethodViewController.xib */,
+				9F6131081EF8FCFE00031D67 /* TFExchangeViewController.h */,
+				9F6131091EF8FCFE00031D67 /* TFExchangeViewController.m */,
+				9F61310A1EF8FCFE00031D67 /* TFExchangeViewController.xib */,
+				9F61310D1EF9057700031D67 /* TFDictChangeModelViewController.h */,
+				9F61310E1EF9057700031D67 /* TFDictChangeModelViewController.m */,
+				9F61310F1EF9057700031D67 /* TFDictChangeModelViewController.xib */,
+				9F6131121EF905B900031D67 /* TFArchiveViewController.h */,
+				9F6131131EF905B900031D67 /* TFArchiveViewController.m */,
+				9F6131141EF905B900031D67 /* TFArchiveViewController.xib */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		9F6130FA1EF8F34B00031D67 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				9F6131171EF905CC00031D67 /* TFChangeModel.h */,
+				9F6131181EF905CC00031D67 /* TFChangeModel.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		9F68F7911EF37E4C00AA6EFD = {
+			isa = PBXGroup;
+			children = (
+				9F68F79C1EF37E4C00AA6EFD /* TFRuntimeDemo */,
+				9F68F79B1EF37E4C00AA6EFD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9F68F79B1EF37E4C00AA6EFD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9F68F79A1EF37E4C00AA6EFD /* TFRuntimeDemo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9F68F79C1EF37E4C00AA6EFD /* TFRuntimeDemo */ = {
+			isa = PBXGroup;
+			children = (
+				9F68F7B41EF37FCE00AA6EFD /* TFRuntimeManager */,
+				9F6130F91EF8F34B00031D67 /* Controller */,
+				9F6130FA1EF8F34B00031D67 /* Model */,
+				9F68F7A01EF37E4C00AA6EFD /* AppDelegate.h */,
+				9F68F7A11EF37E4C00AA6EFD /* AppDelegate.m */,
+				9F68F7A31EF37E4C00AA6EFD /* ViewController.h */,
+				9F68F7A41EF37E4C00AA6EFD /* ViewController.m */,
+				9F68F7A61EF37E4C00AA6EFD /* Main.storyboard */,
+				9F68F7A91EF37E4C00AA6EFD /* Assets.xcassets */,
+				9F68F7AB1EF37E4C00AA6EFD /* LaunchScreen.storyboard */,
+				9F68F7AE1EF37E4C00AA6EFD /* Info.plist */,
+				9F68F79D1EF37E4C00AA6EFD /* Supporting Files */,
+			);
+			path = TFRuntimeDemo;
+			sourceTree = "<group>";
+		};
+		9F68F79D1EF37E4C00AA6EFD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9F68F79E1EF37E4C00AA6EFD /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9F68F7B41EF37FCE00AA6EFD /* TFRuntimeManager */ = {
+			isa = PBXGroup;
+			children = (
+				9F68F7B51EF380D700AA6EFD /* TFRuntimeManager.h */,
+				9F68F7B61EF380D700AA6EFD /* TFRuntimeManager.m */,
+			);
+			path = TFRuntimeManager;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9F68F7991EF37E4C00AA6EFD /* TFRuntimeDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F68F7B11EF37E4C00AA6EFD /* Build configuration list for PBXNativeTarget "TFRuntimeDemo" */;
+			buildPhases = (
+				9F68F7961EF37E4C00AA6EFD /* Sources */,
+				9F68F7971EF37E4C00AA6EFD /* Frameworks */,
+				9F68F7981EF37E4C00AA6EFD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TFRuntimeDemo;
+			productName = TFRuntimeDemo;
+			productReference = 9F68F79A1EF37E4C00AA6EFD /* TFRuntimeDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9F68F7921EF37E4C00AA6EFD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = TechFantasy;
+				TargetAttributes = {
+					9F68F7991EF37E4C00AA6EFD = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 48J8UJB93W;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 9F68F7951EF37E4C00AA6EFD /* Build configuration list for PBXProject "TFRuntimeDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9F68F7911EF37E4C00AA6EFD;
+			productRefGroup = 9F68F79B1EF37E4C00AA6EFD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9F68F7991EF37E4C00AA6EFD /* TFRuntimeDemo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9F68F7981EF37E4C00AA6EFD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F68F7AD1EF37E4C00AA6EFD /* LaunchScreen.storyboard in Resources */,
+				9F61310C1EF8FCFE00031D67 /* TFExchangeViewController.xib in Resources */,
+				9F68F7AA1EF37E4C00AA6EFD /* Assets.xcassets in Resources */,
+				9F68F7A81EF37E4C00AA6EFD /* Main.storyboard in Resources */,
+				9F6131161EF905B900031D67 /* TFArchiveViewController.xib in Resources */,
+				9F6131111EF9057700031D67 /* TFDictChangeModelViewController.xib in Resources */,
+				9F6131021EF8F3A900031D67 /* TFIvarAndMethodViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9F68F7961EF37E4C00AA6EFD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F6131101EF9057700031D67 /* TFDictChangeModelViewController.m in Sources */,
+				9F68F7A51EF37E4C00AA6EFD /* ViewController.m in Sources */,
+				9F6131011EF8F3A900031D67 /* TFIvarAndMethodViewController.m in Sources */,
+				9F6131151EF905B900031D67 /* TFArchiveViewController.m in Sources */,
+				9F6131191EF905CC00031D67 /* TFChangeModel.m in Sources */,
+				9F61310B1EF8FCFE00031D67 /* TFExchangeViewController.m in Sources */,
+				9F68F7A21EF37E4C00AA6EFD /* AppDelegate.m in Sources */,
+				9F68F7B71EF380D700AA6EFD /* TFRuntimeManager.m in Sources */,
+				9F68F79F1EF37E4C00AA6EFD /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		9F68F7A61EF37E4C00AA6EFD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9F68F7A71EF37E4C00AA6EFD /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		9F68F7AB1EF37E4C00AA6EFD /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9F68F7AC1EF37E4C00AA6EFD /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9F68F7AF1EF37E4C00AA6EFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9F68F7B01EF37E4C00AA6EFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9F68F7B21EF37E4C00AA6EFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 48J8UJB93W;
+				INFOPLIST_FILE = TFRuntimeDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = LF.TFRuntimeDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		9F68F7B31EF37E4C00AA6EFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 48J8UJB93W;
+				INFOPLIST_FILE = TFRuntimeDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = LF.TFRuntimeDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9F68F7951EF37E4C00AA6EFD /* Build configuration list for PBXProject "TFRuntimeDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F68F7AF1EF37E4C00AA6EFD /* Debug */,
+				9F68F7B01EF37E4C00AA6EFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9F68F7B11EF37E4C00AA6EFD /* Build configuration list for PBXNativeTarget "TFRuntimeDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F68F7B21EF37E4C00AA6EFD /* Debug */,
+				9F68F7B31EF37E4C00AA6EFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9F68F7921EF37E4C00AA6EFD /* Project object */;
+}
